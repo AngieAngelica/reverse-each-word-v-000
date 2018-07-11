@@ -15,7 +15,7 @@ def reverse_each_word(sentence)
 end
 
 =begin
-This is a shorter method below:
+This is a shorter method below for collect:
 
 def reverse_each_word(sentence)
   split_sentence = sentence.split
